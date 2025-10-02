@@ -1,0 +1,17 @@
+D:\Escuela\Semestre 5\Técnica\Desarrollo Visual 2\Etapa 2\Uso del formulario MDI\bin\Debug\net8.0-windows\Uso del formulario MDI.exe
+D:\Escuela\Semestre 5\Técnica\Desarrollo Visual 2\Etapa 2\Uso del formulario MDI\bin\Debug\net8.0-windows\Uso del formulario MDI.deps.json
+D:\Escuela\Semestre 5\Técnica\Desarrollo Visual 2\Etapa 2\Uso del formulario MDI\bin\Debug\net8.0-windows\Uso del formulario MDI.runtimeconfig.json
+D:\Escuela\Semestre 5\Técnica\Desarrollo Visual 2\Etapa 2\Uso del formulario MDI\bin\Debug\net8.0-windows\Uso del formulario MDI.dll
+D:\Escuela\Semestre 5\Técnica\Desarrollo Visual 2\Etapa 2\Uso del formulario MDI\bin\Debug\net8.0-windows\Uso del formulario MDI.pdb
+D:\Escuela\Semestre 5\Técnica\Desarrollo Visual 2\Etapa 2\Uso del formulario MDI\obj\Debug\net8.0-windows\Uso_del_formulario_MDI.Form1.resources
+D:\Escuela\Semestre 5\Técnica\Desarrollo Visual 2\Etapa 2\Uso del formulario MDI\obj\Debug\net8.0-windows\Uso del formulario MDI.csproj.GenerateResource.cache
+D:\Escuela\Semestre 5\Técnica\Desarrollo Visual 2\Etapa 2\Uso del formulario MDI\obj\Debug\net8.0-windows\Uso del formulario MDI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escuela\Semestre 5\Técnica\Desarrollo Visual 2\Etapa 2\Uso del formulario MDI\obj\Debug\net8.0-windows\Uso del formulario MDI.AssemblyInfoInputs.cache
+D:\Escuela\Semestre 5\Técnica\Desarrollo Visual 2\Etapa 2\Uso del formulario MDI\obj\Debug\net8.0-windows\Uso del formulario MDI.AssemblyInfo.cs
+D:\Escuela\Semestre 5\Técnica\Desarrollo Visual 2\Etapa 2\Uso del formulario MDI\obj\Debug\net8.0-windows\Uso del formulario MDI.csproj.CoreCompileInputs.cache
+D:\Escuela\Semestre 5\Técnica\Desarrollo Visual 2\Etapa 2\Uso del formulario MDI\obj\Debug\net8.0-windows\Uso del formulario MDI.dll
+D:\Escuela\Semestre 5\Técnica\Desarrollo Visual 2\Etapa 2\Uso del formulario MDI\obj\Debug\net8.0-windows\refint\Uso del formulario MDI.dll
+D:\Escuela\Semestre 5\Técnica\Desarrollo Visual 2\Etapa 2\Uso del formulario MDI\obj\Debug\net8.0-windows\Uso del formulario MDI.pdb
+D:\Escuela\Semestre 5\Técnica\Desarrollo Visual 2\Etapa 2\Uso del formulario MDI\obj\Debug\net8.0-windows\Uso del formulario MDI.genruntimeconfig.cache
+D:\Escuela\Semestre 5\Técnica\Desarrollo Visual 2\Etapa 2\Uso del formulario MDI\obj\Debug\net8.0-windows\ref\Uso del formulario MDI.dll
+D:\Escuela\Semestre 5\Técnica\Desarrollo Visual 2\Etapa 2\Uso del formulario MDI\obj\Debug\net8.0-windows\Uso_del_formulario_MDI.FormularioHijo.resources
